@@ -1,2 +1,16 @@
 I added some changes to this file
 Duygu H
+//Create the text file
+	/* vim test_file.txt --> enter
+	 * write anything
+	 //--for QUIT of writing--
+	 * 1) press ESC 
+	 * 2) :w(write)q(quit) :wq --> enter 
+	 * 
+	 */
+	
+	//Create A FOLDER
+	
+	/*
+	 * mkdir test -->enter
+	 */
