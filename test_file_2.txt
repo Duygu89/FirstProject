@@ -16,3 +16,5 @@ Duygu H
 	 */
 
 Another features
+
+Stash test
